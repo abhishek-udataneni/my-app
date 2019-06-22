@@ -1,0 +1,69 @@
+{   "Employee":{
+    "id": 1001,
+    "Name":"John",
+    "weeks": [
+        { "id": 1,
+            "week-start":"21-Nov-2018",
+            "week-end":"28-Nov-2018",
+          "Job": [{
+                   "id":10,
+                   "name":"trillium",
+                   "status":"completed",
+                   "job-start": "21-Nov-2018",
+                   "job-end": "21-Nov-2018",
+                   "client" : {
+                      "id" : 30,
+                      "name": "Mc Donald's"  
+                              }
+                   },
+                   {
+                    "id":11,
+                    "name":"trillium",
+                    "status":"completed",
+                    "job-start": "21-Nov-2018",
+                    "job-end": "21-Nov-2018",
+                    "client" : {
+                       "id" : 30,
+                       "name": "Mc Donald's"  
+                               }
+                    }
+                    
+                ]
+          
+      },
+      { "id": 1,
+        "week-start":"21-Nov-2018",
+        "week-end":"28-Nov-2018",
+      "Job": [{
+               "id":10,
+               "name":"trillium",
+               "status":"completed",
+               "job-start": "21-Nov-2018",
+               "job-end": "21-Nov-2018",
+               "client" : {
+                  "id" : 30,
+                  "name": "Mc Donald's"  
+                          }
+               },
+               {
+                "id":11,
+                "name":"trillium",
+                "status":"completed",
+                "job-start": "21-Nov-2018",
+                "job-end": "21-Nov-2018",
+                "client" : {
+                   "id" : 30,
+                   "name": "Mc Donald's"  
+                           }
+                }
+                
+            ]
+      
+  }
+  
+        
+      ]
+}
+    
+    
+  }
